@@ -15,7 +15,7 @@
         "modal-react-native-web": "^0.2.0",
         "native-base": "^2.13.12",
         "npm-check-updates": "^6.0.0",
-        "qs": "^6.9.4",
+        "qs": "^6.9.7",
         "react": "~16.13.1",
         "react-dom": "^16.13.1",
         "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
